@@ -1,4 +1,11 @@
 # music-store
+Mobile client application developed in Kotlin with server developed in Node.js.
+
+To run the server, execute:
+```
+npm install
+npm start
+```
 
 A music store is providing services using a mobile app. The clients are able to view the available songs and add one or more of them to their list of favorites. The employees are able to manage the list of songs.
 
