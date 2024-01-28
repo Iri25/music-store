@@ -7,7 +7,7 @@ npm install
 npm start
 ```
 
-A music store is providing services using a mobile app. The clients are able to view the available songs and add one or more of them to their list of favorites. The employees are able to manage the list of songs.
+Mobile application for a music store. A music store is providing services using a mobile app. The clients are able to view the available songs and add one or more of them to their list of favorites. The employees are able to manage the list of songs.
 
 ### The following details are stored on the server side:
 - Id - the internal song id. Integer value greater than zero.
